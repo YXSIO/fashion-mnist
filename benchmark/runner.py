@@ -4,7 +4,6 @@ import random
 import time
 from ast import literal_eval as make_tuple
 from multiprocessing import Process, Queue
-
 import numpy as np
 import psutil
 from sklearn import preprocessing
